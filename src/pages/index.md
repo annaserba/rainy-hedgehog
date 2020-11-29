@@ -89,5 +89,11 @@ sections:
       style="display:none;">5gL8fbEXAlClEhQmMWFDX8xX9as6TMazJNvNU4fQd8s%3D</div>
     actions: []
     type: section_content
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    testimonials: []
+    type: section_testimonials
 template: advanced
 ---
