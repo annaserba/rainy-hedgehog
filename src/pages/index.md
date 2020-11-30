@@ -78,16 +78,5 @@ sections:
       - label: View Blog
         url: blog
         style: button
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    content: >-
-      <script type="text/javascript" charset="utf-8"
-      src="https://stells.info/assets/js/partner.fire.js"></script>
-
-      <div class="s-partnership"
-      style="display:none;">5gL8fbEXAlClEhQmMWFDX8xX9as6TMazJNvNU4fQd8s%3D</div>
-    actions: []
-    type: section_content
 template: advanced
 ---
